@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend for fullstack intern assignment",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "dev": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "axios": "^1.6.0",
+    "vue": "^2.6.14",
+    "vue-axios": "^3.5.2",
+    "vuetify": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "sass": "^1.54.0",
+    "sass-loader": "^10.4.1",
+    "vue-template-compiler": "^2.6.14",
+    "vuetify-loader": "^1.9.2"
+  }
+}
